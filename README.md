@@ -4,8 +4,6 @@
 
 I'm an **HPC Engineer** passionate about leveraging high-performance computing for cutting-edge research and applications. My expertise lies in optimising software for advanced computing environments, enabling scalable solutions in scientific computing and AI.
 
----
-
 ## 🖥️ Skills & Technologies
 
 **Languages & Tools:**  
@@ -14,8 +12,6 @@ I'm an **HPC Engineer** passionate about leveraging high-performance computing f
 - DevOps: CI/CD pipelines, Docker
 - ML/AI: LLMs, data pipelines, model evaluation
 - Cloud: Google Cloud Platform (GCP)
-
----
 
 ## 🚀 Projects & Interests
 
@@ -28,13 +24,10 @@ I'm an **HPC Engineer** passionate about leveraging high-performance computing f
 - **DevOps/Automation**:  
   Building automated workflows for testing, deployment, and monitoring.  
 
----
 ## 📫 How to reach me
 
 - GitHub: [nahceigna](https://github.com/nahceigna)
 - LinkedIn: [angiechan0104](https://www.linkedin.com/in/angiechan0104/)
-
----
 
 Thanks for visiting! 🌟  
 
